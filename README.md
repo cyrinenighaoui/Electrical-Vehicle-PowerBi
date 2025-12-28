@@ -1,7 +1,7 @@
 # 🚗 Electric Vehicle Dashboard — Power BI Project
 
  **Business Intelligence Dashboard analyzing the adoption of Electric Vehicles in the United States**
-<img width="512" height="512" alt="icon" src="https://github.com/user-attachments/assets/c4d4a966-5c80-458c-b710-4ad3cbd64445" />
+<img width="1327" height="741" alt="dashboard" src="https://github.com/user-attachments/assets/fa6c65e1-05c2-4213-852b-370b3eb7deeb" />
 
 ---
 
@@ -60,6 +60,7 @@ This Power BI dashboard provides a complete analysis of the Electric Vehicle (EV
 - Environmental impact analytics (CO₂ avoided)
 - 
 > 📌 Inspiration : Dashboard concept inspired by Data Tutorials — Power BI Course (YouTube)
+
 
 
 
