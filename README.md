@@ -1,6 +1,7 @@
 # 🚗 Electric Vehicle Dashboard — Power BI Project
 
  **Business Intelligence Dashboard analyzing the adoption of Electric Vehicles in the United States**
+<img width="512" height="512" alt="icon" src="https://github.com/user-attachments/assets/c4d4a966-5c80-458c-b710-4ad3cbd64445" />
 
 ---
 
@@ -50,23 +51,15 @@ This Power BI dashboard provides a complete analysis of the Electric Vehicle (EV
 | **Data Modeling** | Relationship management for optimized analytics |
 | **Shape Map / Filled Map** | State-level visualization |
 
----
 
-## 🔍 Insights Summary
-
-✔ Strong EV market growth since 2018  
-✔ Tesla represents a major share of the market  
-✔ Fully electric models are favored over PHEV  
-✔ Government incentives accelerate EV adoption  
-✔ California = EV capital of the U.S. 🚀
-
----
 
 ## 🧠 Future Enhancements
 
 - Machine Learning forecasting inside Power BI (Time series)
 - Advanced customer segmentation by state & brand
 - Environmental impact analytics (CO₂ avoided)
+- 
 > 📌 Inspiration : Dashboard concept inspired by Data Tutorials — Power BI Course (YouTube)
+
 
 
